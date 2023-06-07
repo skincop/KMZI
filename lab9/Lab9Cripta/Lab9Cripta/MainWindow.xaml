@@ -1,0 +1,26 @@
+﻿<Window x:Class="Lab9Cripta.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab9Cripta"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="450">
+    <StackPanel HorizontalAlignment="Left" Background="DarkGray" Height="900" Width="450">
+        <Label Content="Генерация сверхвозврастающей последовательности" Margin="10"/>
+        <TextBox Name="FirstTaskResultTb" TextWrapping="Wrap"  VerticalAlignment="Top" Margin="10" Height="24" Background="Beige"/>
+        <Button Content="Рассчитать" Margin="10" Width="100" Height="25" Click="Button_Click"></Button>
+        <Label Content="Генерация последовательности" Margin="10"/>
+        <TextBox Name="SecondTaskResultTb" TextWrapping="Wrap"  VerticalAlignment="Top" Margin="10" Height="24" Background="Beige"/>
+        <Button Content="Рассчитать" Margin="10" Width="100" Height="25" Click="Button_Click2"></Button>
+        <Label Content="Входной текст" Margin="10"/>
+        <TextBox Name="ThirdTaskInputTb" TextWrapping="Wrap"  VerticalAlignment="Top" Margin="10" Height="24" Background="Beige"/>
+        <Button Content="Зашифровать" Margin="10" Width="100" Height="25" Click="Button_Click3"></Button>
+        <Label Content="Зашифрованный текст" Margin="10"/>
+        <TextBox Name="ThirdTaskResultTb" TextWrapping="Wrap"  VerticalAlignment="Top" Margin="10" Height="24" Background="Beige"/>
+        <Button Content="Расшифровать" Margin="10" Width="100" Height="25" Click="Button_Click4"></Button>
+        <Label Content="Расшифрованный текст" Margin="10"/>
+        <TextBox Name="FourthTaskResultTb" TextWrapping="Wrap"  VerticalAlignment="Top" Margin="10" Height="24" Background="Beige"/>
+        <TextBlock Text="Время шифрование и рассширования" Name="timeTB"/>
+    </StackPanel>
+</Window>

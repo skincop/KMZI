@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriptaLab3", "CriptaLab3\CriptaLab3.csproj", "{3A155FD8-18DD-4A3A-8F16-BBC5DC88293D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A155FD8-18DD-4A3A-8F16-BBC5DC88293D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A155FD8-18DD-4A3A-8F16-BBC5DC88293D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A155FD8-18DD-4A3A-8F16-BBC5DC88293D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A155FD8-18DD-4A3A-8F16-BBC5DC88293D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DE9741B-E6F8-4CB3-8F79-17B1E9D9D98F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\univ\6 sem\cripta\labs\Lab4\CriptaLab4\CriptaLab4\bin\Debug\net6.0\CriptaLab4.exe
+D:\univ\6 sem\cripta\labs\Lab4\CriptaLab4\CriptaLab4\bin\Debug\net6.0\CriptaLab4.deps.json
+D:\univ\6 sem\cripta\labs\Lab4\CriptaLab4\CriptaLab4\bin\Debug\net6.0\CriptaLab4.runtimeconfig.json
+D:\univ\6 sem\cripta\labs\Lab4\CriptaLab4\CriptaLab4\bin\Debug\net6.0\CriptaLab4.dll
+D:\univ\6 sem\cripta\labs\Lab4\CriptaLab4\CriptaLab4\bin\Debug\net6.0\CriptaLab4.pdb
+D:\univ\6 sem\cripta\labs\Lab4\CriptaLab4\CriptaLab4\obj\Debug\net6.0\CriptaLab4.csproj.AssemblyReference.cache
+D:\univ\6 sem\cripta\labs\Lab4\CriptaLab4\CriptaLab4\obj\Debug\net6.0\CriptaLab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\univ\6 sem\cripta\labs\Lab4\CriptaLab4\CriptaLab4\obj\Debug\net6.0\CriptaLab4.AssemblyInfoInputs.cache
+D:\univ\6 sem\cripta\labs\Lab4\CriptaLab4\CriptaLab4\obj\Debug\net6.0\CriptaLab4.AssemblyInfo.cs
+D:\univ\6 sem\cripta\labs\Lab4\CriptaLab4\CriptaLab4\obj\Debug\net6.0\CriptaLab4.csproj.CoreCompileInputs.cache
+D:\univ\6 sem\cripta\labs\Lab4\CriptaLab4\CriptaLab4\obj\Debug\net6.0\CriptaLab4.dll
+D:\univ\6 sem\cripta\labs\Lab4\CriptaLab4\CriptaLab4\obj\Debug\net6.0\refint\CriptaLab4.dll
+D:\univ\6 sem\cripta\labs\Lab4\CriptaLab4\CriptaLab4\obj\Debug\net6.0\CriptaLab4.pdb
+D:\univ\6 sem\cripta\labs\Lab4\CriptaLab4\CriptaLab4\obj\Debug\net6.0\CriptaLab4.genruntimeconfig.cache
+D:\univ\6 sem\cripta\labs\Lab4\CriptaLab4\CriptaLab4\obj\Debug\net6.0\ref\CriptaLab4.dll

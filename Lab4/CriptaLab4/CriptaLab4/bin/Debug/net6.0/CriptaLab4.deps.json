@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CriptaLab4/1.0.0": {
+        "runtime": {
+          "CriptaLab4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CriptaLab4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\univ\6 sem\cripta\labs\Lab2\Lab2\Lab2\bin\Debug\net6.0\Lab2.exe
+D:\univ\6 sem\cripta\labs\Lab2\Lab2\Lab2\bin\Debug\net6.0\Lab2.deps.json
+D:\univ\6 sem\cripta\labs\Lab2\Lab2\Lab2\bin\Debug\net6.0\Lab2.runtimeconfig.json
+D:\univ\6 sem\cripta\labs\Lab2\Lab2\Lab2\bin\Debug\net6.0\Lab2.dll
+D:\univ\6 sem\cripta\labs\Lab2\Lab2\Lab2\bin\Debug\net6.0\Lab2.pdb
+D:\univ\6 sem\cripta\labs\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.csproj.AssemblyReference.cache
+D:\univ\6 sem\cripta\labs\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\univ\6 sem\cripta\labs\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfoInputs.cache
+D:\univ\6 sem\cripta\labs\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfo.cs
+D:\univ\6 sem\cripta\labs\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.csproj.CoreCompileInputs.cache
+D:\univ\6 sem\cripta\labs\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.dll
+D:\univ\6 sem\cripta\labs\Lab2\Lab2\Lab2\obj\Debug\net6.0\refint\Lab2.dll
+D:\univ\6 sem\cripta\labs\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.pdb
+D:\univ\6 sem\cripta\labs\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.genruntimeconfig.cache
+D:\univ\6 sem\cripta\labs\Lab2\Lab2\Lab2\obj\Debug\net6.0\ref\Lab2.dll
